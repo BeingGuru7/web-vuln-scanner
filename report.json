@@ -1,0 +1,15 @@
+{
+    "url": "https://httpbin.org/forms/post",
+    "forms_scanned": 1,
+    "xss_found": 0,
+    "sqli_found": 0,
+    "results": [
+        {
+            "form_id": 1,
+            "action": "/post",
+            "method": "post",
+            "xss": false,
+            "sqli": false
+        }
+    ]
+}
